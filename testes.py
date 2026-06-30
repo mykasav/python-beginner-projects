@@ -1,6 +1,1 @@
-import random
-a=0
-while a<=10:
-    b=random.randint(1,6)
-    print(b)
-    a+=1
+print("1.Register Expense\n2.Check Expenses \n3.Remove Expense")
