@@ -1,7 +1,6 @@
-#yooo expense tracker type shit
+# Expense tracker
 # funcionalidades: meter as expenses, calcular quantas expenses temos no total, no que gastamos
-#poder aceder as expenses duma forma kawai >_<
-#menu, registar gasto, ver os gastos
+# menu, registar gasto, ver os gastos, remover gastos
 
 class exepensetracker:
     def __init__(self):

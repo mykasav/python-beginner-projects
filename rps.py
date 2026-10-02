@@ -42,7 +42,7 @@ class RPS:
                     print("thx for playing")
                     break
                 if guess not in autorized:
-                    print("Invalid input, try other beatch")
+                    print("Invalid input, try again")
                     continue
                 
                 a=self.randomize()

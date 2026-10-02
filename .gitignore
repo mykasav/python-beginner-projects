@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+# Data files created by passmanager.py at runtime
+users.txt
+*_passwords.txt
